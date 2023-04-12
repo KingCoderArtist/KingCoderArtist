@@ -1,6 +1,4 @@
 ## Hey 👋, I'm Sebastian Gonzaleza!  
-  
-  
 <a href="https://github.com/devexpert127/devexpert127/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/devexpert127/devexpert127/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
 <a href="https://github.com/devexpert127/devexpert127/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
@@ -9,7 +7,7 @@
 <a href="https://github.com/devexpert127/devexpert127/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=rishavanand&theme=onedark&rank=-S"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=rishavanand&rank=-S"/>
 </p>
 
 ### Glad to see you here!  
@@ -132,6 +130,14 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+  
+
+<br/>  
+
 <a href="https://github.com/CodeArtist970725" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -148,16 +154,4 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
   
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
