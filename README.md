@@ -29,9 +29,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
-  
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+    
+- 💯 Feel free to chat with me on Skype. I am fond of new project and new ideas.
+    Skype id: live:.cid.7abbd5dae4dbe3a2
 
 
 </td></tr></table>  
@@ -136,9 +137,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
   
 
-<br/>  
-
-Skype id: live:.cid.7abbd5dae4dbe3a2
 </br>
 
 <a href="https://github.com/CodeArtist970725" target="_blank">
