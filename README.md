@@ -139,8 +139,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 Skype id: live:.cid.7abbd5dae4dbe3a2
-Feel free to chat with me on skype here: https://join.skype.com/invite/L9SZzfvUb7xh
 </br>
+
 <a href="https://github.com/CodeArtist970725" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
