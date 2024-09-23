@@ -32,7 +32,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
     
 - 💯 Feel free to chat with me on Skype. I am fond of new project and new ideas.
-    Skype id: live:.cid.7abbd5dae4dbe3a2
 
 
 </td></tr></table>  
